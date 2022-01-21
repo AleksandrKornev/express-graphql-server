@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.8",
-    "log4js": "^5.2.2",
+    "log4js": "^6.4.0",
     "mysql2": "^1.7.0",
     "nodemon": "^1.19.3"
   }
